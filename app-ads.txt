@@ -1,0 +1,14 @@
+# AppLovin
+applovin.com, , DIRECT
+
+# ironSource
+ironsource.com, , DIRECT
+
+# Unity Ads
+unity3d.com, , DIRECT
+
+# VK Ads
+vk.com, , DIRECT
+
+# Yandex Ads
+yandex.com, , DIRECT
