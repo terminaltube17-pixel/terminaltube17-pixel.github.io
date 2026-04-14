@@ -2,13 +2,13 @@
 applovin.com, , DIRECT
 
 # ironSource
-ironsource.com, , DIRECT
+ironsource.com, 21f3e1c65, DIRECT
 
 # Unity Ads
-unity3d.com, , DIRECT
+unity3d.com, 21f3e1c65, DIRECT
 
 # VK Ads
 vk.com, , DIRECT
 
 # Yandex Ads
-yandex.com, , DIRECT
+yandex.com, 16032095, DIRECT
