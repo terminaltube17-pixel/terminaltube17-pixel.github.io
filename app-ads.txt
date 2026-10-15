@@ -1,5 +1,5 @@
 # app-ads.txt - terminal (Rogue Turret, Farmia)
-OWNERDOMAIN=terminaltube17-pixel.github.io
+OWNERDOMAIN=terminal-dev.ru
 
 # ironSource / Unity LevelPlay
 ironsrc.com, 606581, DIRECT
